@@ -1,0 +1,40 @@
+.picture1 {
+    background-image: url(../assets/mug-1.png);
+    background-size: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 50%;
+    border-radius: 10px 0 0 10px;
+    /* height: 10%; */
+
+}
+.picture2 {
+    background-image: url(../assets/mug-2.png);
+    background-size: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 50%;
+    border-radius: 10px 0 0 10px;
+    /* height: 10%; */
+
+}
+.picture3 {
+    background-image: url(../assets/t-shirt-2.png);
+    background-size: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 50%;
+    border-radius: 10px 0 0 10px;
+    /* height: 10%; */
+
+}
+.picture4 {
+    background-image: url(../assets/mouse-pad-2.png);
+    background-size: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 50%;
+    border-radius: 10px 0 0 10px;
+    /* height: 10%; */
+
+}
